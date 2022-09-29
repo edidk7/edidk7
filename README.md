@@ -7,10 +7,10 @@ const aboutMe = {
         name:'Daniel Duarte',
         job:'Front-end Developer',
         skills:{
-        keySkills:['JavaScript','React', 'Vue' , 'Angular', 'Git'],
-        areasOfKnowledge:['HTML','CSS','JavaScript','React',
-        'Sass','Bootstrap','react-bootstrap','Git','GitHub',
-        'Microsoft Visual Studio Code','Scrum','Trello','Slack'],
+        keySkills:['JavaScript','React','Node','Git'],
+        areasOfKnowledge:['HTML','CSS','Sass','JavaScript',
+        'jQuery','React','Angular','Vue','Bootstrap','Git','GitHub',
+        'VS Code','Postman','Scrum','Jira'],
 }};
 ```
 
