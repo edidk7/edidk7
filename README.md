@@ -17,5 +17,5 @@ const aboutMe = {
 - 🌱 I’m currently learning React ⚛
 
 - <p>Contact me: </p>
-  
-[![Linkedin:danielduarte2](https://img.shields.io/badge/-danielduarte2-b
+
+[![Linkedin:danielduarte2](https://img.shields.io/badge/-danielduarte2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielduarte2/)](https://www.linkedin.com/in/danielduarte2/)
