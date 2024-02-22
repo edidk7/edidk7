@@ -9,7 +9,7 @@ const aboutMe = {
         skills:{
         keySkills:['JavaScript','React','Node','Git'],
         areasOfKnowledge:['HTML','CSS','Sass','JavaScript',
-        'jQuery','React','Angular','Vue','Bootstrap','Git','GitHub',
+        'jQuery', 'TypeScript', 'React','Angular','Vue','Bootstrap','Git','GitHub',
         'VS Code','Postman','Scrum','Jira'],
 }};
 ```
