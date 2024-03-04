@@ -7,14 +7,14 @@ const aboutMe = {
         name:'Daniel Duarte',
         job:'Front-end Developer',
         skills:{
-        keySkills:['JavaScript','React','Node','Git'],
-        areasOfKnowledge:['HTML','CSS','Sass','JavaScript',
-        'jQuery', 'TypeScript', 'React','Angular','Vue','Bootstrap','Git','GitHub',
-        'VS Code','Postman','Scrum','Jira'],
+        keySkills:['JavaScript','TypeScript','React','Node','Git'],
+        Knowledge Front-end:['React','Angular','Vue','Node','JavaScript','TypeScript','jQuery','HTML','CSS','Sass','Bootstrap','TailwindCSS','Material UI','Prime React','AntDesign'],
+        Knowledge Back-end:['Node JS','Express','SpringBoot','Java','.NET','C#', 'SQL Server', 'MySQL', 'MongoDB'],
+        Tools:['Git','GitHub','Postman','VS Code','Jira','Scrum']
 }};
 ```
 
-- 🌱 I’m currently learning React ⚛
+- 🌱 I’m currently learning Docker and NextJS ⚛
 
 - <p>Contact me: </p>
 
