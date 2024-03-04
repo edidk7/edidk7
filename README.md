@@ -8,8 +8,9 @@ const aboutMe = {
         job:'Front-end Developer',
         skills:{
         keySkills:['JavaScript','TypeScript','React','Node','Git'],
-        Knowledge Front-end:['React','Angular','Vue','Node','JavaScript','TypeScript','jQuery','HTML','CSS','Sass','Bootstrap','TailwindCSS','Material UI','Prime React','AntDesign'],
-        Knowledge Back-end:['Node JS','Express','SpringBoot','Java','.NET','C#', 'SQL Server', 'MySQL', 'MongoDB'],
+        KnowledgeFrontend:['React','Angular','Vue','Node','JavaScript','TypeScript','jQuery','HTML','CSS','Sass',
+          'Bootstrap','TailwindCSS','Material UI','Prime React','AntDesign'],
+        KnowledgeBackend:['Node JS','Express','SpringBoot','Java','.NET','C#','SQL Server','MySQL','MongoDB'],
         Tools:['Git','GitHub','Postman','VS Code','Jira','Scrum']
 }};
 ```
